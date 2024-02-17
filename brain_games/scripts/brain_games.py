@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 def greating():
     print('Welcome to the Brain Games!')
 
