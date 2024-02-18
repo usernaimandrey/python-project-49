@@ -1,4 +1,4 @@
-intall:
+install:
 	poetry install
 
 brain-games:
