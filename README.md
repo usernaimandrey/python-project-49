@@ -12,3 +12,7 @@
 ## Brain-calc
 
 [![asciicast](https://asciinema.org/a/641335.svg)](https://asciinema.org/a/641335)
+
+## Brain-gcd
+
+[![asciicast](https://asciinema.org/a/641337.svg)](https://asciinema.org/a/641337)
