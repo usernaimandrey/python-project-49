@@ -25,7 +25,7 @@ make install
 make build
 ```
 
-4. install package
+4. install package and paly games
 
 ```bash
 make package-install
