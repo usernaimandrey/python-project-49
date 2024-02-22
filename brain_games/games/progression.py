@@ -12,7 +12,7 @@ def progression() -> tuple[str, str]:
     step = rnd(range(1, 10))
     end = start + (length - 1) * step
     hide_symbol = '..'
-    random_index = rnd(range(0, 9))
+    random_index = rnd(range(0, length - 1))
     progression = list(range(start, end, step))
     correct_answer = progression[random_index]
     question = []
