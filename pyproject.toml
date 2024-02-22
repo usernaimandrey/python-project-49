@@ -5,6 +5,7 @@ description = "This is a set of math console games"
 authors = ["usernaimandrey <anshlyapnikov@yandex.ru>"]
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/usernaimandrey/python-project-49"
 packages = [
   { include = "brain_games" },
 ]
